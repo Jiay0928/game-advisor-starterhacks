@@ -89,6 +89,12 @@ p11 {
     top: 350px;
 }
 
+p12 {
+    position: absolute;
+    font-size: 1.2em;
+    left: 1100px;
+    top: 550px;
+}
 .sidebar {
     width: 50%;
     height: 80%;

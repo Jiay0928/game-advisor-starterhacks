@@ -112,6 +112,14 @@ p15 {
     left: 1080px;
     top: 410px;
 }
+
+p16 {
+    position: absolute;
+    font-size: 1.2em;
+    left: 1100px;
+    top: 550px;
+}
+
 .sidebar {
     width: 50%;
     height: 80%;
