@@ -10,5 +10,6 @@ prices, names and download locations of the games within that category.
 If you don't know where to start, take the personalized quiz to see what category of games you would like the most!<br/>  
 
 The website is super user-friendly.<br/>
-Click on the buttons and texts and you will be directed to the corresponding pages.
+Click on the buttons and texts and you will be directed to the corresponding pages.  
 
+![Overview of the Webpage](Overview.png)
