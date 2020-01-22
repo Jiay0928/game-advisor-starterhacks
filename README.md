@@ -1,4 +1,6 @@
-# game-advisor
+# game-advisor  
+Written by: Mingyu Liu, Zimeng Wang, Xintong Li, Jiaying Cui  
+
 A website that tests your preferences and connects you to different categories of PC games. 
 
 The website is intended to provide you with quick access to different categories of PC games.<br/>
